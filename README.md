@@ -19,19 +19,19 @@ Analyzing customer purchasing patterns and revenue trends to support data-driven
 
 ## 📌 Table of Contents
 
-- Overview
-- Business Problem
-- Dataset
-- Tools & Technologies
-- Project Structure
-- Data Cleaning & Preparation
-- Exploratory Data Analysis (EDA)
-- Research Questions & Key Findings
-- Dashboard
-- Dashboard Preview Images
-- How to Run This Project
-- Final Recommendations
-- Author & Contact
+- [Overview](#overview)
+- [Business Problem](#business-problem)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Project Structure](#project-structure)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Research Questions & Key Findings](#research-questions--key-findings)
+- [Dashboard](#dashboard)
+- [Dashboard Preview Images](#dashboard-preview-images)
+- [How to Run This Project](#how-to-run-this-project)
+- [Final Recommendations](#final-recommendations)
+- [Author & Contact](#author--contact)
 
 ---
 
