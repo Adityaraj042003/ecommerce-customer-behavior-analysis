@@ -1,4 +1,4 @@
-# E-Commerce Customer Shopping Behavior Analysis – Sales & Customer Insights
+# E-Commerce Customer Shopping Behavior Analysis
 
 Analyzing customer purchasing patterns and revenue trends to support data-driven business decisions using SQL, Python, and Tableau.
 
