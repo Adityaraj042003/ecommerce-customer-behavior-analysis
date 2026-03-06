@@ -247,26 +247,21 @@ Key metrics visualized:
 - Total Orders
 - Total Quantity Sold
 
----
-
-## Dashboard Preview Images
+## 📊 Dashboard Preview Images
 
 ### E-Commerce Sales Summary
 
-<!-- Add dashboard image here -->
-!(images/https://github.com/Adityaraj042003/ecommerce-customer-behavior-analysis/blob/main/images/Dashboard_images/Screenshot%202026-03-05%20112052.png)
+![E-Commerce Sales Dashboard](images/Dashboard_images/Screenshot%202026-03-05%20112052.png)
 
-### Category & Product Performance Insights
+### Category & Product Insights
 
-<!-- Add dashboard image here -->
-![Category Insights](images/category_product_insights.png)
+![Category Insights](images/Dashboard_images/Screenshot%202026-03-05%20112111.png)
 
-### Category Revenue Breakdown & Country Insights
+### Country Revenue Insights
 
-<!-- Add dashboard image here -->
-![Country Insights](images/country_revenue_insights.png)
+![Country Insights](images/Dashboard_images/Screenshot%202026-03-05%20112129.png)
 
----
+
 
 ## How to Run This Project
 
