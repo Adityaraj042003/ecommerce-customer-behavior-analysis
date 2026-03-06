@@ -312,11 +312,13 @@ These strategies can significantly improve revenue growth and operational effici
 
 ---
 
-## Author & Contact
+## 👨‍💻 Author & Contact
 
-**Aditya Raj**
-
+*Aditya Raj*  
 B.Tech Computer Science Engineering (3rd Year)  
 Aspiring Data Analyst  
 
-📊 Skills: SQL | Python | Tableau | Data Analytics
+📧 Email: bhardwajaditya2536@gmail.com 
+💻 GitHub: https://github.com/Adityaraj042003  
+🔗 LinkedIn: www.linkedin.com/in/
+aditya-raj-a734b1279
