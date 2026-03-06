@@ -254,7 +254,7 @@ Key metrics visualized:
 ### E-Commerce Sales Summary
 
 <!-- Add dashboard image here -->
-![Dashboard Summary](images/dashboard_summary.png)
+!(images/https://github.com/Adityaraj042003/ecommerce-customer-behavior-analysis/blob/main/images/Dashboard_images/Screenshot%202026-03-05%20112052.png)
 
 ### Category & Product Performance Insights
 
