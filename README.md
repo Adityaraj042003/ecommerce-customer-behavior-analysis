@@ -279,7 +279,7 @@ Place the CSV dataset into the `dataset/` folder.
 
 ### Run SQL queries
 
-Execute SQL scripts to perform cleaning and feature engineering.
+Execute SQL scripts to perform data cleaning and business analysis queries.
 
 ### Run Python notebooks
 
