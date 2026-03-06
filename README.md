@@ -247,26 +247,18 @@ Key metrics visualized:
 - Total Orders
 - Total Quantity Sold
 
----
+## 📊 Dashboard Preview Images
 
-## Dashboard Preview Images
+### 
 
-### E-Commerce Sales Summary
+![E-Commerce Sales Dashboard](images/Dashboard_images/Screenshot%202026-03-05%20112052.png)
 
-<!-- Add dashboard image here -->
-![Dashboard Summary](images/dashboard_summary.png)
+### 
+![Category Insights](images/Dashboard_images/Screenshot%202026-03-05%20112111.png)
 
-### Category & Product Performance Insights
+### 
+![Country Insights](images/Dashboard_images/Screenshot%202026-03-05%20112129.png)
 
-<!-- Add dashboard image here -->
-![Category Insights](images/category_product_insights.png)
-
-### Category Revenue Breakdown & Country Insights
-
-<!-- Add dashboard image here -->
-![Country Insights](images/country_revenue_insights.png)
-
----
 
 ## How to Run This Project
 
