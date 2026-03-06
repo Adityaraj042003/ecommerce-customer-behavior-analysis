@@ -251,13 +251,13 @@ Key metrics visualized:
 
 ### 
 
-![E-Commerce Sales Dashboard](images/Dashboard_images/Screenshot%202026-03-05%20112052.png)
+![E-Commerce Sales Dashboard](images/Dashboard_images/sales_dashboard.png)
 
 ### 
-![Category Insights](images/Dashboard_images/Screenshot%202026-03-05%20112111.png)
+![Category Insights](images/Dashboard_images/category_product_insights.png)
 
 ### 
-![Country Insights](images/Dashboard_images/Screenshot%202026-03-05%20112129.png)
+![Country Insights](images/Dashboard_images/country_revenue_analysis.png)
 
 
 ## How to Run This Project
