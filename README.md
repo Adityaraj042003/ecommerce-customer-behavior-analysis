@@ -94,9 +94,9 @@ The project uses a modern data analytics stack:
 
 ### SQL (PostgreSQL)
 
-- Data cleaning
-- Feature engineering
-- Aggregations using SUM() and GROUP BY
+- Data cleaning and data validation
+- Business queries for analytical insights
+- Aggregations using SUM(),COUNT() and GROUP BY
 
 ### Python
 
@@ -159,9 +159,6 @@ Key steps performed:
 Created a Revenue column using:
 Revenue = Unit Price × Quantity
 
-
-Applied IQR (Interquartile Range) method in Python to detect and remove outliers from order value distribution.
-
 These steps ensured the dataset was clean and ready for reliable analysis.
 
 ---
@@ -175,6 +172,8 @@ Exploratory analysis was conducted to understand sales patterns and customer pur
 - Identified overall revenue spread across transactions
 - Detected high-value purchase ranges
 - Evaluated variability in order values
+- Outliers were identified using the IQR (Interquartile Range) method to ensure reliable analysis
+- A total of 91 outliers were detected in the order value distribution
 
 ### Category Performance
 
