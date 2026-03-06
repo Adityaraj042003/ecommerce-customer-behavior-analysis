@@ -318,7 +318,8 @@ These strategies can significantly improve revenue growth and operational effici
 B.Tech Computer Science Engineering (3rd Year)  
 Aspiring Data Analyst  
 
-📧 Email: bhardwajaditya2536@gmail.com 
-💻 GitHub: https://github.com/Adityaraj042003  
-🔗 LinkedIn: www.linkedin.com/in/
+
+📧 *Email:* bhardwajaditya2536@gmail.com
+🔗 *LinkedIn:* www.linkedin.com/in/
 aditya-raj-a734b1279
+💻 *GitHub:* https://github.com/your-github  
